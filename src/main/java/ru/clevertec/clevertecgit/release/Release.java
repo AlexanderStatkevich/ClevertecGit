@@ -5,6 +5,8 @@ import java.util.Objects;
 public class Release {
     private String field;
 
+    private String newField;
+
     public Release(String field) {
         this.field = field;
     }
