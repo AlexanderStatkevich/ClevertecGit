@@ -17,4 +17,11 @@ public class Feature {
     public int hashCode() {
         return Objects.hash(field);
     }
+
+    @Override
+    public String toString() {
+        return "Feature{" +
+                "field='" + field + '\'' +
+                '}';
+    }
 }
