@@ -7,4 +7,7 @@ public class Main {
     private void methodA(){
 
     }
+    private void methodB(){
+
+    }
 }
