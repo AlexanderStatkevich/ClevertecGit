@@ -8,4 +8,12 @@ public class FeatureTemp {
         this.field = field;
         this.anotherField = anotherField;
     }
+
+    @Override
+    public String toString() {
+        return "FeatureTemp{" +
+                "field='" + field + '\'' +
+                ", anotherField='" + anotherField + '\'' +
+                '}';
+    }
 }
