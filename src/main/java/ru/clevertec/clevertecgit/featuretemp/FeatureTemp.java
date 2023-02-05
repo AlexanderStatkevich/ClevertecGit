@@ -1,4 +1,4 @@
-package ru.clevertec.clevertecgit.FeatureTemp;
+package ru.clevertec.clevertecgit.featuretemp;
 
 public class FeatureTemp {
     private String field;
